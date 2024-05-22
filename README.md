@@ -1,5 +1,23 @@
-make sure you have node insatalled in your maching
+# LayoutBuilder
 
--clone the repository
--run: npm install
--to start dev server: npm run dev
+## Prerequisites
+
+Make sure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
+
+## Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### Clone the Repository
+
+```bash
+git clone <repository_url>
+cd <repository_directory>
+
+
+### Start the Development Server
+
+To start the development server, run:
+
+```bash
+npm run dev
